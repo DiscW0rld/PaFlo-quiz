@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+ <quiz>
     <quizname>Automaten und Berechenbarkeit</quizname>
-    <filename id="explicit_filename">Quiz_Automaten_und_Berechenbarkeit.xml</filename>
+    <filename id="explicit_filename">quiz_automaten.xml</filename>
     <quizdata tag="quizdata">
         <question tag="question">
             Frage 1
@@ -9,13 +9,13 @@
         <RightAnswer tag="rightAnswer">
             richtige Antwort zu Frage 1
         </RightAnswer>
-        <WrAns1 tag="answers">
+        <WrAns1>
             Falsche Antwort 1 zu Frage 1
         </WrAns1>
-        <WrAns2 tag="answers">
+        <WrAns2>
             Falsche Antwort 2 zu Frage 1
         </WrAns2>
-        <WrAns3 tag="answers">
+        <WrAns3>
             Falsche Antwort 3 zu Frage 1
         </WrAns3>
     </quizdata>
@@ -67,6 +67,4 @@
     </array>
 
 
-
-
-</resources>
+</quiz>
