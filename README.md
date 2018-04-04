@@ -1,7 +1,7 @@
 # PaFlo-quiz
 Quizzes for the PaFlo app
 
-How do I write a quiz?
+<h1>How do I write a quiz?</h1>
 A quiz must contain at least three questions.
 
 A quiz xml needs to be in this form to be parsed correctly:
