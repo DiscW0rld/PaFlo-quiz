@@ -6,7 +6,7 @@ A quiz must contain at least three questions.
 
 A quiz xml needs to be in this form to be parsed correctly:
 
-<?xml version="1.0" encoding="utf-8"?>
+"<?xml version="1.0" encoding="utf-8"?>
 <quiz>
     <filename id="explicit_filename">yourquizname.xml</filename>
     <quizdata tag="quizdata">
@@ -60,4 +60,4 @@ A quiz xml needs to be in this form to be parsed correctly:
             third wrong answer to the third question
         </WrAns3>
     </quizdata>
-</quiz>
+</quiz>"
