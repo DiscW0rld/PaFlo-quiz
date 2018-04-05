@@ -4,7 +4,7 @@
     <filename id="explicit_filename">Quiz_Schulpaedagogik.xml</filename>
     <quizdata tag="quizdata">
         <question tag="question">
-            Schulpädafrage 1
+            Was ist Didaktik?
         </question>
         <RightAnswer tag="rightAnswer">
             richtige Antwort Schulpäda 1
@@ -35,6 +35,25 @@
         </WrAns2>
         <WrAns3 tag="wrAns3">
             Falsche Antwort Schulpäda 2
+        </WrAns3>
+    </quizdata>
+
+
+    <quizdata tag="quizdata">
+        <question tag="question">
+            Schulpädafrage 3
+        </question>
+        <RightAnswer tag="rightAnswer">
+            richtige Antwort Schulpäda 3
+        </RightAnswer>
+        <WrAns1 tag="wrAns1">
+            Falsche Antwort Schulpäda 3
+        </WrAns1>
+        <WrAns2 tag="wrAns2">
+            Falsche Antwort Schulpäda 3
+        </WrAns2>
+        <WrAns3 tag="wrAns3">
+            Falsche Antwort Schulpäda 3
         </WrAns3>
     </quizdata>
 
