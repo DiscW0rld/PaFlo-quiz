@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<quiz>
     <quizname>Schulpädagogik</quizname>
     <filename id="explicit_filename">Quiz_Schulpaedagogik.xml</filename>
     <quizdata tag="quizdata">
@@ -57,4 +57,4 @@
         </WrAns3>
     </quizdata>
 
-</resources>
+</quiz>
