@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <index>
+  <filename id="explicit_filename">quizIndex.xml</filename>
   <entry> 
     <name> Automaten und Berechenbarkeit </name>
     <link>https://raw.githubusercontent.com/DiscW0rld/PaFlo-quiz/master/quiz_automaten.xml</link>
