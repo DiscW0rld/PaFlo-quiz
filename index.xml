@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <index>
-  <entry> quiz_automaten.xml </entry>
-  <entry> quiz_schulpaedagogik.xml </entry>
+  <entry> 
+    <name> Automaten und Berechenbarkeit </name>
+    <link>https://raw.githubusercontent.com/DiscW0rld/PaFlo-quiz/master/quiz_automaten.xml</link>
+    <author> PaFlo </author>
+  </entry>
+  <entry>
+    <name> Schulpädagogik </name>
+    <link>https://raw.githubusercontent.com/DiscW0rld/PaFlo-quiz/master/quiz_automaten.xml</link>
+    <author> PaFlo </author>
+  </entry>
 </index>
